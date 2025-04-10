@@ -71,9 +71,9 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,flask,firebase,git,vscode,androidstudio" /><br/>
 <!--   <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio," /> -->
 </div>
-
+<!--
 <h2 align="center">🚀 Flagship Projects</h2>
-
+<
 <div align="center">
 <a href="https://github.com/Gemy-Dev/gmap_auto_config">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gemy-dev&repo=gmap_auto_config&theme=tokyonight&hide_border=true&bg_color=0D1117" />
@@ -82,6 +82,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gemy-dev&repo=flutter-transkriptor&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 </div>
+-->
 
 
 <h2 align="center">🤝 Let's Connect</h2> 
@@ -90,5 +91,5 @@
 <!--     <td> <a href="https://twitter.com/gemmydev"> <img width="64" height="64" src="https://img.icons8.com/nolan/64/twitter.png" alt="Twitter"/> </a> </td> <td> <a href="https://instagram.com/gemmydev"> <img width="64" height="64" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="Instagram"/> </a> </td> -->
   </tr> </table> 
  </div> <div align="center"> <h3>✨ Open for Collaborations ✨</h3> <p> Flutter Development</p> </div> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div> 
-<!-- <!-- <div align="center"> <h3>Support My Work</h3> <a href="https://buymeacoffee.com/gamaln1991t"> <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=gemydev&button_colour=6AD7F7&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /> </a> </div> -->
+<!--  <div align="center"> <h3>Support My Work</h3> <a href="https://buymeacoffee.com/gamaln1991t"> <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=gemydev&button_colour=6AD7F7&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /> </a> </div> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer" width="100%" />  
