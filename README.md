@@ -3,7 +3,7 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Gamal%20Abdel%20Nasser&fontSize=90&animation=scaleIn&fontAlignY=38&desc=Flutter%20Developer%20%&descAlignY=51&descAlign=62&textBg=false&fontColor=6AD7F7)](https://github.com/Gemy-Dev)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD7F7&center=true&vCenter=true&random=false&width=635&lines=Building+Intelligent+Solutions%2C+Specializing+in+Flutter;4%2B+Years+of+Development+Excellence;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6AD7F7&center=true&vCenter=true&random=false&width=935&lines=Building+Intelligent+Solutions%2C+Specializing+in+Flutter;Years+of+Development+Excellence;" alt="Typing SVG" />
 
 </div>
 
@@ -56,7 +56,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=gemy-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=6AD7F7" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gemy-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD7F7" />
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gemy-dev&theme=dark&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
