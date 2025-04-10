@@ -49,7 +49,7 @@
 </div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
-
+<div align="center">
 <table>
   <tr>
     <td width="50%">
@@ -60,6 +60,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gemy-dev&custom_title=Contribution%20Graph&bg_color=0D1117&color=6AD7F7&line=6AD7F7&point=FFFFFF&hide_border=true" width="100%" />
