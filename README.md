@@ -1,22 +1,15 @@
-
 <div align="center">
-
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Gamal%20Abdel%20Nasser&fontSize=90&animation=scaleIn&fontAlignY=38&desc=Flutter%20Developer%20%&descAlignY=51&descAlign=62&textBg=false&fontColor=6AD7F7)](https://github.com/Gemy-Dev)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6AD7F7&center=true&vCenter=true&random=false&width=935&lines=Building+Intelligent+Solutions%2C+Specializing+in+Flutter;Years+of+Development+Excellence;" alt="Typing SVG" />
-
+  <img src="https://raw.githubusercontent.com/gemy-dev/gemy-dev/main/assets/cosmic-gateway.gif" width="100%"/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=4500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Gamal+Abdel+Nasser;FLUTTER+Developer;)](https://github.com/davytheprogrammer)
 </div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gamal-abdel-nasser-07809a195/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-<!--   <a href="https://twitter.com/gemmydev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/gemmydev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a> -->
+
 </div>
 
 <br/>
@@ -25,28 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=gemmydev&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<h2 align="center">🎯 Mission & Impact</h2>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">👨‍💻 Tech Innovation</h3>
-      <p align="center">
-        Building intelligent Flutter applications that transform user experiences and push the boundaries of mobile development.
-      </p>
-    </td>
-<!--     <td width="50%">
-      <h3 align="center">🌟 Social Impact</h3>
-      <p align="center">
-        Passionate about raising mental health awareness and creating innovative technological solutions for mental wellness.
-      </p>
-    </td>
-  </tr> -->
-</table>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gemy-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%" alt="Trophy" />
-</div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
