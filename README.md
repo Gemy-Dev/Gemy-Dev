@@ -54,8 +54,7 @@
 
 
 <h2 align="center">🤝 Let's Connect</h2> 
-<div align="center"> 
-  <table> <tr> <td> <a href="https://www.linkedin.com/in/gamal-abdel-nasser-07809a195/"> <img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/> </a> </td>  -->
+
 <!--     <td> <a href="https://twitter.com/gemmydev"> <img width="64" height="64" src="https://img.icons8.com/nolan/64/twitter.png" alt="Twitter"/> </a> </td> <td> <a href="https://instagram.com/gemmydev"> <img width="64" height="64" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="Instagram"/> </a> </td> -->
   </tr> </table> 
  </div> <div align="center"> <h3>✨ Open for Collaborations ✨</h3> <p> Flutter Development</p> </div> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div> 
